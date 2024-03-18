@@ -2,9 +2,9 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
-nav: true
-nav_order: 7
+description: Members of the Ethos Lab
+nav: false
+nav_order: 4
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
