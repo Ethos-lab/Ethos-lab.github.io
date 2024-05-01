@@ -9,36 +9,28 @@ nav_order: 4
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
+  - align: left
+    image: amir.jpg
+    content: people/amir.md
+    image_circular: false # crops the image to make it circular
   - align: right
     image: pratik.jpg
-    content: pratik.md
+    content: people/pratik.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
   - align: left
-    image: veena.jpg
-    content: veena.md
+    image: veena.png
+    content: people/veena.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: sanket.jpg
-    content: about.md
+  - align: right
+    image: sanket.png
+    content: people/sanket.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
   - align: left
     image: abisheka.jpg
-    content: about.md
+    content: people/abisheka.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
 ---
+
+# Alumni
+
+1. [Xigao Li](https://xigaoli.com/) Graduated August 2023 -> Research Engineer at Meta
